@@ -12,6 +12,9 @@ A tela de login é a porta de entrada para acessar o software. Nesta etapa, o us
 O Dashboard é a interface principal do software, onde o usuário pode visualizar e acessar todas as operações agrícolas disponíveis. É uma ferramenta intuitiva e amigável, projetada para proporcionar uma experiência de uso agradável.
 ![dashboard-agrix](https://github.com/tatehira/Python-Exercicios/assets/68212041/958899b9-eece-4022-b14b-2cd119e33b4b)
 
+## Demonstração
+![Agrix-Demo_AdobeExpress](https://github.com/tatehira/Python-Exercicios/assets/68212041/adca4f26-b633-46ce-900b-b5887dcd8987)
+
 
 ## Idioma Personalizado
 
