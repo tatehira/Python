@@ -1,4 +1,4 @@
-# AgriX <img width="176" alt="agrix-logo" src="https://github.com/tatehira/Python-Exercicios/assets/68212041/b34ebe3a-3864-4c6d-8810-21fc7c8a5a95">
+# <img width="176" alt="agrix-logo" src="https://github.com/tatehira/Python-Exercicios/assets/68212041/b34ebe3a-3864-4c6d-8810-21fc7c8a5a95">
 
 Soluções inovadoras e eficientes em gestão que auxiliam a tomada de decisões estratégicas e otimizam os resultados de suas atividades agrícolas.
 
