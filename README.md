@@ -13,7 +13,7 @@ O Dashboard é a interface principal do software, onde o usuário pode visualiza
 ![dashboard-agrix](https://github.com/tatehira/Python-Exercicios/assets/68212041/958899b9-eece-4022-b14b-2cd119e33b4b)
 
 ## Demonstração
-![Agrix-Demo_AdobeExpress](https://github.com/tatehira/Python-Exercicios/assets/68212041/adca4f26-b633-46ce-900b-b5887dcd8987)
+![Agrix-Demo](https://github.com/tatehira/Python-Exercicios/assets/68212041/17c64069-cb2d-4669-86d4-3af3dce67aa3)
 
 
 ## Idioma Personalizado
