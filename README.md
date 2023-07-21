@@ -1,4 +1,4 @@
-![Agrix-Demo](https://github.com/LbrIT-Dev/Back-AgriX/assets/68212041/5ec89254-6562-424d-bb85-bdc76098a7b2)![Agrix-Demo](https://github.com/LbrIT-Dev/Back-AgriX/assets/68212041/86634b00-be2e-41d9-8e17-3187f5d0f1fc)# <img width="176" alt="agrix-logo" src="https://github.com/tatehira/Python-Exercicios/assets/68212041/b34ebe3a-3864-4c6d-8810-21fc7c8a5a95">
+## <img width="176" alt="agrix-logo" src="https://github.com/tatehira/Python-Exercicios/assets/68212041/3655485d-b56e-487e-95ed-0d0e49972c9a">
 
 Soluções inovadoras e eficientes em gestão que auxiliam a tomada de decisões estratégicas e otimizam os resultados de suas atividades agrícolas.
 
